@@ -1,4 +1,4 @@
-Scaling Enterprise AI Through Systems Thinking
+# Scaling Enterprise AI Through Systems Thinking
 
 ## Slides & Notebook
 
@@ -7,9 +7,16 @@ OpenAI Academy livestream on Sep 23, 2025 at 3:00 PM - 4:00 PM
 
 ## Join Our Community
 
-DeepStation is on a mission to accelerate AI education and innovation through an AI powered community, bringing together engineers, professionals, and enthusiasts so we can thrive in the AI wave.
+**DeepStation** is on a mission to accelerate AI education and innovation through an AI powered community, bringing together engineers, professionals, and enthusiasts so we can thrive in the AI wave.
 
-Check out options to **[Join Our community](https://deepstation.ai/connect)** or to provide support for initiatives here
+Check out how to **[Join Our Community And Ask Your Questions Here](https://deepstation.ai/connect)**:
+- **[Discord](https://discord.com/invite/5nHvNaaByY)**
+- **[WhatsApp](https://chat.whatsapp.com/KLSBrpk0izVIKxXg09GLCa)**
+- **[Youtube](https://www.youtube.com/@DeepStationAI)**
+- **[LinkedIn](https://www.linkedin.com/company/deepstationai)**
+- **[Instagram](https://www.instagram.com/deepstationai)**
+- **[Newsletter](https://deepstation.beehiiv.com/subscribe)**
+
 
 ## DISCLAIMER
 
