@@ -5,7 +5,7 @@ DISCLAIMER
 
 The materials, frameworks, code, and presentations contained in this repository represent the original analytical work and intellectual synthesis of Mashruk (Mash) Zahid, created through independent research and analysis of publicly available sources, academic literature, and industry publications. 
 
-These materials are provided for educational and informational purposes only. The views, opinions, and methodologies expressed herein are solely those of the author in his personal capacity and do not represent, reflect, or imply endorsement by any organization with which Mashruk Zahid is currently affiliated or has been affiliated in the past, including but not limited to General Motors, IBM, or any client organizations thereof.
+These materials are provided for educational and informational purposes only. The views, opinions, and methodologies expressed herein are solely those of the author in his personal capacity and do not represent, reflect, or imply endorsement by any organization with which Mashruk Zahid is currently affiliated or has been affiliated in the past, including but not limited to any company employer or any client organizations thereof.
 
 No proprietary, confidential, or non-public information from any current or former employer or client has been used in the creation of these materials. All data, examples, and case studies are derived from public sources or are synthetic demonstrations created for illustrative purposes.
 
