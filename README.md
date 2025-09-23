@@ -9,7 +9,7 @@ These materials are provided for educational and informational purposes only. Th
 
 No proprietary, confidential, or non-public information from any current or former employer or client has been used in the creation of these materials. All data, examples, and case studies are derived from public sources or are synthetic demonstrations created for illustrative purposes.
 
-This work is licensed under [specify license - e.g., MIT, Creative Commons, etc.]. Users assume all responsibility for their application or adaptation of these concepts and code. The author provides no warranties, express or implied, regarding the accuracy, completeness, or suitability of these materials for any particular purpose.
+This work is licensed under MIT. Users assume all responsibility for their application or adaptation of these concepts and code. The author provides no warranties, express or implied, regarding the accuracy, completeness, or suitability of these materials for any particular purpose.
 
 Any trademarks, service marks, or company names mentioned are the property of their respective owners and are used for identification and educational purposes only.
 
