@@ -1,4 +1,4 @@
-# OpenAI Academy x DeepStation - Scaling Enterprise AI Through Systems Thinking
+Scaling Enterprise AI Through Systems Thinking
 
 ## Slides & Notebook
 
