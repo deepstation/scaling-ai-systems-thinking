@@ -1,7 +1,17 @@
-Workshop slides for Scaling Enterprise AI Through Systems Thinking
+# OpenAI Academy x DeepStation - Scaling Enterprise AI Through Systems Thinking
+
+## Slides & Notebook
+
+Workshop slides and notebook for Scaling Enterprise AI Through Systems Thinking
 OpenAI Academy livestream on Sep 23, 2025 at 3:00 PM - 4:00 PM
 
-DISCLAIMER
+## Join Our Community
+
+DeepStation is on a mission to accelerate AI education and innovation through an AI powered community, bringing together engineers, professionals, and enthusiasts so we can thrive in the AI wave.
+
+Check out options to **[Join Our community](https://deepstation.ai/connect)** or to provide support for initiatives here
+
+## DISCLAIMER
 
 The materials, frameworks, code, and presentations contained in this repository represent the original analytical work and intellectual synthesis of Mashruk (Mash) Zahid, created through independent research and analysis of publicly available sources, academic literature, and industry publications. 
 
