@@ -8,6 +8,8 @@ Slides & notebook filenames:
 - Scaling AI Through Systems Thinking vF 09-23-25.pdf
 - Scaling_AI_SysThinking_patient_journey_orchestrator_vF.ipynb
 
+Full analysis is provided on my **[long-form Substack article, 41-minute read](https://open.substack.com/pub/mashz/p/scaling-enterprise-ai-through-systems?r=2gqj&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**.
+
 ## Join Our Community
 
 **DeepStation** is on a mission to accelerate AI education and innovation through an AI powered community, bringing together engineers, professionals, and enthusiasts so we can thrive in the AI wave.
