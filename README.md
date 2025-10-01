@@ -2,13 +2,13 @@
 
 ## Slides & Notebook
 
-Workshop slides and notebook are included above for Scaling Enterprise AI Through Systems Thinking OpenAI Academy livestream on Sep 23, 2025 at 3:00 PM - 4:00 PM
+Workshop slides and notebook are included above for [Scaling Enterprise AI Through Systems Thinking OpenAI Academy livestream on Sep 23, 2025 at 3:00 PM - 4:00 PM EDT](https://academy.openai.com/home/events/scaling-enterprise-ai-through-systems-thinking-juj4jf41sk).
 
 Slides & notebook filenames:
 - Scaling AI Through Systems Thinking vF 09-23-25.pdf
 - Scaling_AI_SysThinking_patient_journey_orchestrator_vF.ipynb
 
-Full analysis is provided on my **[long-form Substack article, 41-minute read](https://open.substack.com/pub/mashz/p/scaling-enterprise-ai-through-systems?r=2gqj&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**.
+Full analysis is provided on my [long-form Substack article, 41-minute read](https://open.substack.com/pub/mashz/p/scaling-enterprise-ai-through-systems?r=2gqj&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true).
 
 ## Join Our Community
 
